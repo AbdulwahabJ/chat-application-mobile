@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223243407364",
+    "project_id": "chat-app-76516",
+    "storage_bucket": "chat-app-76516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223243407364:android:5964f079ade613d6cfa551",
+        "android_client_info": {
+          "package_name": "com.wahabb.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223243407364-d0e5osa54vqm6ks4kcer3mjh3es63chh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aKlXVQ8mleKhQ-etL2-FBMDZpgN8VkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223243407364-d0e5osa54vqm6ks4kcer3mjh3es63chh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
